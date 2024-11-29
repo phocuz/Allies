@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div className="flex justify-around items-center px-8 py-4 bg-gray-50">
+    <div className="flex justify-around items-center px-8 py-4 ">
       {/* Left Section */}
       <div className="sm:flex hidden gap-6">
         <h5 className="text-customPink transition duration-200 cursor-pointer">

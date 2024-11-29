@@ -7,7 +7,7 @@ function MainSection() {
          {/* Left Section */}
             <div className="flex   rounded-2xl p-6  lg:p-10">
                 {/* Image */}
-                <div className="w-[450px] lg:w-[570px] md:h-[450px] lg:h-[500px]">
+                <div className="w-[400px] lg:w-[570px] md:h-[450px] lg:h-[500px]">
                     <img src={image} alt="image" className="w-full h-auto rounded-xl " />
                 </div>
             </div>

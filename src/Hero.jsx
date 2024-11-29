@@ -1,6 +1,6 @@
 function Hero() {
     return (
-        <div className="flex justify-center items-center mx-auto rounded-lg bg-customLightPink w-full max-w-[1200px] h-auto p-8 lg:h-[450px]">
+        <div className="flex justify-center items-center mx-auto rounded-lg bg-customLightPink w-[350px] h-auto p-8 lg:h-[450px]">
             <div className="flex flex-col justify-center items-center text-center space-y-6">
                 <h1 className="text-4xl lg:text-5xl text-customPink font-bold tracking-wide">
                     Create <span className="font-light"><i>Beautiful</i></span> Birth Plans with <br />

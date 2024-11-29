@@ -74,7 +74,7 @@ function Cards() {
 
                 <div className="flex  flex-col gap-4" >
                     <div className="bg-white w-[270px] h[270px] relative rounded-lg">
-                        <img src={image6} alt="image" />
+                        <img src={image} alt="image" />
                         <button className="rounded-full px-2 py-1 border-2 border-customPink absolute bottom-4 right-0">→</button>
                     </div>
                     <div className="text-start flex justify-center flex-col gap-2 font-semibold">

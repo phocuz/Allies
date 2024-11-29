@@ -6,11 +6,11 @@ function Consultation() {
 
             {/* Right Section */}
             <div className="flex flex-col justify-center gap-6 text-customPink max-w-[450px]">
-                <h1 className="text-[28px] md:text-[36px] lg:text-[38px] font-semibold leading-tight tracking-normal">
-                    See How Your Hospital <span className="font-normal italic">Compares</span>  to Others in the Area
+                <h1 className="text-[25px] md:text-[36px] lg:text-[35px] font-semibold leading-tight tracking-normal">
+                    <span className="font-normal italic">Share</span> Your Birth Plan with <br /> Your Doctor and Loved <br /> Ones  to Others in the Area
                 </h1>
                 <p className="text-customPink text-base leading-relaxed">
-                    Make informed decisions with our comprehensive hospital comparison tool. See ratings and reviews from other mothers and find the best hospital for your delivery based on quality of care, facilities, and more. Your peace of mind is our priority.
+                    Easily share your birth plan with your healthcare team and loved ones. Ensure everyone is on the same page and ready to support you during your delivery. Sharing your journey brings comfort and confidence to those who care about you.
                 </p>
                 <button className="px-6 py-3 text-customPink  border-2 border-customPink rounded-full w-[140px]">
                     Get Started
